@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="page.css">
+    <!-- <script src="page.js"></script> -->
+
+
+    <title>Assignment</title>
+</head>
+
+<body>
+    <form action="/Forms.Html">
+        <h2>Print your desired list</h2>
+        <label for="">Enter your sentence:</label><br><br>
+        <textarea placeholder="Write your sentence" id="sentence" cols="40" rows="5"></textarea>
+        <br><br>
+
+        <label>Letter : </label> <input type="text" id="letter" placeholder="Choose any Letter" value=""><br><br>
+
+        <br>
+
+        <label>Check one's before Submit : </label><input type="button" onclick="page()" value="Click Me"><input
+            type="reset">
+        <br>
+        <center><h1 class = "output" id ="output1"></h1></center>
+        
+    </form>
+    <script type="text/javascript">
+        
+            
+            // const out1 = document.getElementById("output1");
+            function page() {
+                // out1.innerHTML=result.value;
+                const sentence = document.getElementById("sentence").value;
+            const letter = document.getElementById("letter").value;
+            const position = sentence.indexOf(letter);
+            const result = sentence.slice(position + 1, sentence.length);
+            document.getElementById("output1").innerHTML=result;}  
+            // btn1.addEventListener('click',page);          
+        
+    </script>
+    
+</body>
+
+</html>
