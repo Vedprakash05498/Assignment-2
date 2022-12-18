@@ -1,7 +1,5 @@
 # Assignment-2
-# Output
 
-# Enter Sentence
 # Example 1
 ![Screenshot 2022-12-18 at 11 17 42 PM](https://user-images.githubusercontent.com/47717448/208311842-ac870e80-fa1f-4b0e-abb1-2ad1900fa55f.png)
 
@@ -10,7 +8,7 @@
 
 
 
-# Enter Sentence
+
 # Example 2
 ![Screenshot 2022-12-18 at 11 18 24 PM](https://user-images.githubusercontent.com/47717448/208311882-bca197e2-8bd4-4b9d-a3f6-064e80bce4d2.png)
 
