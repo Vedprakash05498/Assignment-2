@@ -3,17 +3,18 @@
 
 # Enter Sentence
 # Example 1
-![Screenshot 2022-12-18 at 11 01 08 PM](https://user-images.githubusercontent.com/47717448/208311309-db46a439-5c8c-4fba-95cd-9b0c354b56b0.png)
+![Screenshot 2022-12-18 at 11 17 42 PM](https://user-images.githubusercontent.com/47717448/208311842-ac870e80-fa1f-4b0e-abb1-2ad1900fa55f.png)
 
 # Reset
-![Screenshot 2022-12-18 at 11 01 15 PM](https://user-images.githubusercontent.com/47717448/208311333-f35a104f-20fe-4034-bed9-298899eaf48e.png)
+![Screenshot 2022-12-18 at 11 16 33 PM](https://user-images.githubusercontent.com/47717448/208311805-05c2fcf9-f24f-41ee-8eba-4084608ec5c3.png)
+
 
 
 # Enter Sentence
 # Example 2
-![Screenshot 2022-12-18 at 11 08 47 PM](https://user-images.githubusercontent.com/47717448/208311565-b797c98b-c90c-4cf5-a238-66cf1265f1f2.png)
+![Screenshot 2022-12-18 at 11 18 24 PM](https://user-images.githubusercontent.com/47717448/208311882-bca197e2-8bd4-4b9d-a3f6-064e80bce4d2.png)
 
 
 # Reset
-![Screenshot 2022-12-18 at 11 08 54 PM](https://user-images.githubusercontent.com/47717448/208311593-b4fbd5a9-1a18-4b89-ab63-3c91303572f8.png)
+![Screenshot 2022-12-18 at 11 19 30 PM](https://user-images.githubusercontent.com/47717448/208311906-a46d9567-d276-49f5-898f-5d426b0755e1.png)
 
